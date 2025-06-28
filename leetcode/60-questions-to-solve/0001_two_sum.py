@@ -1,3 +1,6 @@
+class List:
+    pass
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         result = []
